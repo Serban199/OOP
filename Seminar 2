@@ -1,0 +1,62 @@
+#include <iostream>
+#include <bits/stdc++.h>
+
+class NumberList
+{
+    int numbers[10];
+    int count;
+
+public:
+    void Init();          // count will be 0
+    void Add(int x);      // adds X to the numbers list and increase the data member count.
+    // if count is bigger or equal to 10, the function will return false
+    void Sort();          // will sort the numbers array
+    void Print();         // will print the current array
+};
+
+void NumberList::Init()
+{
+    count = 0;
+}
+
+bool NumberList::Add(int x)
+{
+    if(count>=10)
+        return false;
+    numbers[count++] = x;
+    return true;
+
+}
+
+void NumberList::Sort()
+{
+    std::sort(numbers,numbers+count);
+}
+
+void NumberList::Print()
+{
+    for (int i = 0; i < count; i++)
+    std::cout << numbers[i] << " ";
+    std::cout<<std::endl;
+
+}
+
+int main()
+{
+    NumberList numbers[10];
+    NumberList A;
+    A.Init();
+    A.Add(5);
+    A.Add(2);
+    A.Add(8);
+    A.Add(1);
+    A.Add(1);
+    A.Add(3);
+    A.Add(9);
+    A.Print();
+
+    A.Sort();
+    A.Print();
+
+    return 0;
+}
