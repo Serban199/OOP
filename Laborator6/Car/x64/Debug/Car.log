@@ -1,0 +1,78 @@
+﻿  BMW.cpp
+C:\Users\onofr\source\repos\Car\car.h(9,9): error C3646: 'name': unknown override specifier
+  (compiling source file 'BMW.cpp')
+  
+C:\Users\onofr\source\repos\Car\car.h(9,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'BMW.cpp')
+  
+C:\Users\onofr\source\repos\Car\BMW.cpp(5,2): error C2065: 'name': undeclared identifier
+  Circuit.cpp
+C:\Users\onofr\source\repos\Car\car.h(9,9): error C3646: 'name': unknown override specifier
+  (compiling source file 'Circuit.cpp')
+  
+C:\Users\onofr\source\repos\Car\car.h(9,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Circuit.cpp')
+  
+C:\Users\onofr\source\repos\Car\Circuit.cpp(25,8): error C2059: syntax error: '{'
+C:\Users\onofr\source\repos\Car\Circuit.cpp(25,8): error C2143: syntax error: missing ';' before '{'
+C:\Users\onofr\source\repos\Car\Circuit.cpp(26,3): error C2046: illegal case
+C:\Users\onofr\source\repos\Car\Circuit.cpp(29,3): error C2046: illegal case
+C:\Users\onofr\source\repos\Car\Circuit.cpp(32,3): error C2046: illegal case
+C:\Users\onofr\source\repos\Car\Circuit.cpp(42,29): error C2039: 'speed': is not a member of 'Car'
+  C:\Users\onofr\source\repos\Car\car.h(3,7):
+  see declaration of 'Car'
+  
+  Fiat.cpp
+C:\Users\onofr\source\repos\Car\car.h(9,9): error C3646: 'name': unknown override specifier
+  (compiling source file 'Fiat.cpp')
+  
+C:\Users\onofr\source\repos\Car\car.h(9,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Fiat.cpp')
+  
+C:\Users\onofr\source\repos\Car\Fiat.cpp(5,2): error C2065: 'name': undeclared identifier
+  main.cpp
+C:\Users\onofr\source\repos\Car\main.cpp(3,2): error C2065: 'Circuit': undeclared identifier
+C:\Users\onofr\source\repos\Car\main.cpp(3,10): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\onofr\source\repos\Car\main.cpp(3,10): error C2065: 'c': undeclared identifier
+C:\Users\onofr\source\repos\Car\main.cpp(4,2): error C2065: 'c': undeclared identifier
+C:\Users\onofr\source\repos\Car\main.cpp(5,2): error C2065: 'c': undeclared identifier
+C:\Users\onofr\source\repos\Car\main.cpp(5,15): error C2653: 'Weather': is not a class or namespace name
+C:\Users\onofr\source\repos\Car\main.cpp(5,24): error C2065: 'Rain': undeclared identifier
+C:\Users\onofr\source\repos\Car\main.cpp(6,2): error C2065: 'c': undeclared identifier
+C:\Users\onofr\source\repos\Car\main.cpp(6,15): error C2061: syntax error: identifier 'Volvo'
+C:\Users\onofr\source\repos\Car\main.cpp(7,2): error C2065: 'c': undeclared identifier
+C:\Users\onofr\source\repos\Car\main.cpp(7,15): error C2061: syntax error: identifier 'BMW'
+C:\Users\onofr\source\repos\Car\main.cpp(8,2): error C2065: 'c': undeclared identifier
+C:\Users\onofr\source\repos\Car\main.cpp(8,15): error C2061: syntax error: identifier 'Seat'
+C:\Users\onofr\source\repos\Car\main.cpp(9,2): error C2065: 'c': undeclared identifier
+C:\Users\onofr\source\repos\Car\main.cpp(9,15): error C2061: syntax error: identifier 'Fiat'
+C:\Users\onofr\source\repos\Car\main.cpp(10,2): error C2065: 'c': undeclared identifier
+C:\Users\onofr\source\repos\Car\main.cpp(10,15): error C2061: syntax error: identifier 'RangeRover'
+C:\Users\onofr\source\repos\Car\main.cpp(11,2): error C2065: 'c': undeclared identifier
+C:\Users\onofr\source\repos\Car\main.cpp(12,2): error C2065: 'c': undeclared identifier
+C:\Users\onofr\source\repos\Car\main.cpp(13,2): error C2065: 'c': undeclared identifier
+  RangeRover.cpp
+C:\Users\onofr\source\repos\Car\car.h(9,9): error C3646: 'name': unknown override specifier
+  (compiling source file 'RangeRover.cpp')
+  
+C:\Users\onofr\source\repos\Car\car.h(9,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'RangeRover.cpp')
+  
+C:\Users\onofr\source\repos\Car\RangeRover.cpp(5,2): error C2065: 'name': undeclared identifier
+  Seat.cpp
+C:\Users\onofr\source\repos\Car\car.h(9,9): error C3646: 'name': unknown override specifier
+  (compiling source file 'Seat.cpp')
+  
+C:\Users\onofr\source\repos\Car\car.h(9,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Seat.cpp')
+  
+C:\Users\onofr\source\repos\Car\Seat.cpp(5,2): error C2065: 'name': undeclared identifier
+  Volvo.cpp
+C:\Users\onofr\source\repos\Car\car.h(9,9): error C3646: 'name': unknown override specifier
+  (compiling source file 'Volvo.cpp')
+  
+C:\Users\onofr\source\repos\Car\car.h(9,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Volvo.cpp')
+  
+C:\Users\onofr\source\repos\Car\Volvo.cpp(5,2): error C2065: 'name': undeclared identifier
+  Generating Code...
