@@ -1,0 +1,6 @@
+﻿  Sort.cpp
+C:\Users\onofr\Desktop\OOP\sem4.cpp\Sort.h(1,9): warning C4068: unknown pragma 'one'
+  (compiling source file 'Sort.cpp')
+  
+C:\Users\onofr\Desktop\OOP\sem4.cpp\Sort.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sem4.cpp.vcxproj -> C:\Users\onofr\Desktop\OOP\sem4.cpp\x64\Debug\sem4.cpp.exe
