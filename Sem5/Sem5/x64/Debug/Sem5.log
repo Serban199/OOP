@@ -1,0 +1,12 @@
+﻿  Number.cpp
+C:\Users\onofr\Desktop\OOP\Sem5\Number.cpp(22,46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\onofr\Desktop\OOP\Sem5\Number.cpp(78,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onofr\Desktop\OOP\Sem5\Number.cpp(215,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onofr\Desktop\OOP\Sem5\Number.cpp(217,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onofr\Desktop\OOP\Sem5\Number.cpp(258,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onofr\Desktop\OOP\Sem5\Number.cpp(260,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Sem5.cpp
+  Generating Code...
+C:\Users\onofr\Desktop\OOP\Sem5\Number.cpp(11,1): warning C4715: 'Number::transformNumber': not all control paths return a value
+C:\Users\onofr\Desktop\OOP\Sem5\Number.cpp(16,1): warning C4715: 'Number::transformchar': not all control paths return a value
+  Sem5.vcxproj -> C:\Users\onofr\Desktop\OOP\Sem5\x64\Debug\Sem5.exe
